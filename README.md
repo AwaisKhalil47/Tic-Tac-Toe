@@ -22,8 +22,6 @@ A simple and interactive **Tic Tac Toe** game developed in **Python** using the 
 3. Open a terminal and navigate to the directory.
 4. Run the game using the command:
 
-```bash
-python ticttactoe.py
 ## 🧑‍💻 Author
 
 **Awais Khalil**  

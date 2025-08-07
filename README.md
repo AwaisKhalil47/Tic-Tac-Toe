@@ -9,10 +9,6 @@ A simple and interactive **Tic Tac Toe** game developed in **Python** using the 
 - Reset option for starting a new game
 - Responsive and clean GUI layout
 
-## 🧑‍💻 Author
-
-**Awais Khalil**  
-📧 LinkedIn: [muhammadawaiskhalil3@gmail.com](mailto:muhammadawaiskhalil3@gmail.com)
 
 ## 🛠️ Technologies Used
 
@@ -28,3 +24,7 @@ A simple and interactive **Tic Tac Toe** game developed in **Python** using the 
 
 ```bash
 python ticttactoe.py
+## 🧑‍💻 Author
+
+**Awais Khalil**  
+📧 LinkedIn: [muhammadawaiskhalil3@gmail.com](mailto:muhammadawaiskhalil3@gmail.com)
